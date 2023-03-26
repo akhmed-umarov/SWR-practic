@@ -1,0 +1,1 @@
+export const fetcher = (url: string , header?: RequestInit)=>fetch(url , header).then(res=> res.json())

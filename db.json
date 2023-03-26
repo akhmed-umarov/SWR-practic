@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Akhmed",
+      "age": "25"
+    },
+    {
+      "id": "27",
+      "name": "asd",
+      "age": "asd"
+    }
+  ],
+  "card": [
+    {
+      "id": "3",
+      "name": "Akhmed",
+      "age": "25"
+    }
+  ]
+}
